@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+import 'package:sinca_tab_order/config/theme.dart';
+
+const recentOrderHead=TextStyle(fontSize: 19, color: Colors.red, fontWeight: FontWeight.bold);
+const recentOrderListHeads=TextStyle(fontSize: 17, color: Color.fromRGBO(153, 153, 153, 1), fontWeight: FontWeight.bold);
+var shimmerBaseClr=Colors.grey.shade50;
+var shimmerHighLightClr=Colors.grey.shade300;
+var recentOrderLoadingContainerClr=Color.fromRGBO(239, 239, 239, 1);
+const noOrderClr= TextStyle(color: Colors.blueGrey, fontSize: 18);
+//const recentOrderListDetailsClr= Color.fromRGBO(153, 153, 153, 1);
+const bottomNavigationSelectionClr= Colors.blue;
+var bottomNavigationStrokeClr=Colors.grey.shade100;
+const bottomNavigationUnselectionClr=Colors.grey;
+const bottomNavigationBGclr=Colors.white;
+var orderListIconClr=Colors.grey.shade500;
+const noOrdersYetText=TextStyle(color: Colors.blueGrey, fontSize: 18);
+const recentOrderListDetailsClr=TextStyle(color: Color.fromRGBO(153, 153, 153, 1), fontSize: 18);
+const ordersSearchIconClr=appBarElementsColor;
+const ipPopUpButtonClr=Color.fromRGBO(40, 53, 147, 1);
+const loginPopUpButtonClr=Color.fromRGBO(102, 187, 106, 1);
+const logoutPopUpButtonClr=Color.fromARGB(255, 183, 27, 27);

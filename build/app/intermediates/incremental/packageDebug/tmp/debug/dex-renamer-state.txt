@@ -1,0 +1,4 @@
+#Thu Nov 03 18:46:19 IST 2022
+base.0=C\:\\Users\\SCREL 07\\Documents\\Jishad\\sinca_tab_order\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
